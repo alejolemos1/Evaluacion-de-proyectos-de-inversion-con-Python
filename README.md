@@ -14,7 +14,7 @@ Al importarlo con Pandas, se ve algo así:
 <img width="487" height="320" alt="image" src="https://github.com/user-attachments/assets/6c76d908-bfee-4989-9042-a0ae0eb213f3" />
 
 ### Calculo de indicadores
-Utilizando en conjunto Pandas, Numpy y Numpy Financial, calculamos VAN, TIR, TIRM, Payback y Discounted Payback, se genera el siguiente DataFrame como resumen ordenado por VAN:
+Utilizando en conjunto Pandas, Numpy y Numpy Financial, calculamos VAN, TIR, TIRM, Payback y Discounted Payback, se genera el siguiente DataFrame como resumen, ordenado por VAN:
 
 <img width="671" height="323" alt="image" src="https://github.com/user-attachments/assets/54d835cf-dfa5-48d1-9bd0-bd6d07d635ac" />
 
