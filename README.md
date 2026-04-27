@@ -30,4 +30,4 @@ Por último, utilizando Matplotlib, se genera un grafico de barras mostrando en 
 1. Optimizar código
 2. Añadir análisis de sensibilidad a la tasa de descuento
 3. Exportar automáticamente resultados en un archivo excel
-4. Comparar con Valor Anual Equivalente para proyectos de distinta duración
+4. Comparar con Valor Anual Equivalente para poder comparar proyectos de distinta duración
